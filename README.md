@@ -10,7 +10,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YourBrotherUsername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=AbdelrahmanMekkawy2020&color=blue)
 
 ## 🚀 About Me
 🔹 A passionate software developer with a focus on **C, C++, C#**, **Android development**, **Embedded Systems**, and **SQL**.<br>
@@ -24,13 +24,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourBrotherUsername&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMekkawy2020&show_icons=true&theme=dracula" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourBrotherUsername&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanMekkawy2020&theme=dracula" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourBrotherUsername&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanMekkawy2020&theme=dracula" />
 </p>
 
 ## 🎬 Latest Projects
